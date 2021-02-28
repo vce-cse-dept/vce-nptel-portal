@@ -86,7 +86,7 @@ color:#2980B9;
 .slider {
 	margin:0;
 	padding:14px 12px 14px 13px;
-	background:url(../images/slider_bg.jpg) no-repeat left top;
+	background:url(../images/slider_bg.jpg) repeat left top;
 }
 .rss {
 	padding:18px 20px 0 0;
